@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pusher</string>
+    <string name="sendMsg">Send message</string>
+    <string name="userName">User name</string>
+    <string name="postAuthor">Post author</string>
+    <string name="postContent">Post content</string>
+    <string name="textAction">Action</string>
+    <string name="errEmptyField">All fields must be filled!</string>
+    <string name="messageSent">Message sent</string>
+</resources>
